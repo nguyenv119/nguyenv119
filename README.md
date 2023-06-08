@@ -1,13 +1,8 @@
-<h1 align="center">Hey there 👋, I'm Long Nguyen, undergrad @ Brandeis'26</h1>
-<h3 align="center">I love learning new things to solve problems, and hope to contribute towards the positive betterment of society to help those in need!</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=550&color=00F733&center=true&vCenter=true&multiline=true&width=435&lines=%3Cintro%3E+;Hey+there+%F0%9F%91%90;Here's+a+cup+of+tea%2C+%F0%9F%8D%B5;+My+name+is+Long+Nguyen%2C+an+undergrad+%40+Brandeis+'+26+%F0%9F%8E%92;I+love+learning+new+things+and+using+them+to+solve+problems+%F0%9F%A4%98I;+hope+to+contribute+towards+the+positive+betterment+of+society+to+help+those+in+need++%F0%9F%8C%8F;I%E2%80%99m+currently+interested+in+ML%2C+Pytorch%2C+DataStructures+%2B+Algorithms+%26%26+Backend+Development+%F0%9F%8C%B1+;But%2C+that's+it+from+me.+I+hope+you+enjoy+your+stay+%F0%9F%98%87;%3C%2Fintro%3E" alt="Typing SVG" style="max-width: 100%;"/></a>
 
-- 🌱 I’m currently interested in -> **ML, Pytorch, DataStructures + Algorithms && Backend Development**
+<img alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&amp;weight=200&amp;duration=2500&amp;pause=0&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=973&amp;height=183&amp;lines=Hi+there!+I'm+Archer%2C+and+I'm+a+problem+solver+with+a+passion+for+digital+;innovation.+I+thrive+on+the+challenge+of+overcoming+limitations+in+my+;environment%2C+and+I+derive+great+satisfaction+from+transforming+them+into;+sources+of+inspiration+and+ideation.+This+passion+drives+me+to+seek+out+new;+opportunities+to+innovate+and+create+meaningful+solutions+that+make+a;+difference+in+the+world." style="max-width: 100%;">
 
-- 📫 Reach me at -> **nguyenv@brandeis.edu**
-
-- ⚡ Fun fact -> **my name isn't that long**
-
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/long-nguyen-8b77b7248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="long-nguyen-8b77b7248" height="30" width="40" /></a>
 <a href="https://instagram.com/_vinh.long_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vinh.long_" height="30" width="40" /></a>
