@@ -1,6 +1,4 @@
-<!-- <h1 align="center">Hey there 👋, I'm Long Nguyen, undergrad @ Brandeis'26</h1>
-<h3 align="center">I love learning new things to solve problems, and hope to contribute towards the positive betterment of society to help those in need!</h3> -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=EDF700&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00DDF7&width=435&lines=Hey+there+%F0%9F%91%90;Here's+a+cup+of+tea%2C+%F0%9F%8D%B5+;My+name+is+Long+Nguyen%2C+an+undergrad+%40+Brandeis+'+26+%F0%9F%8E%92;I+love+learning+new+things+and+using+them+to+solve+problems+%F0%9F%A4%98;I+hope+to+contribute+towards+the+positive+betterment+of+society+to+help+those+in+need++%F0%9F%8C%8F" alt="Typing SVG" /></a>
 
 - 🌱 I’m currently interested in -> **ML, Pytorch, DataStructures + Algorithms && Backend Development**
 
