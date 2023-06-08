@@ -1,5 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Long Nguyen, undergrad @ Brandeis'26</h1>
-<h3 align="center">I love learning new things to solve problems, and hope to contribute towards the positive betterment of society to help those in need!</h3>
+<!-- <h1 align="center">Hey there 👋, I'm Long Nguyen, undergrad @ Brandeis'26</h1>
+<h3 align="center">I love learning new things to solve problems, and hope to contribute towards the positive betterment of society to help those in need!</h3> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey there 👋, I'm Long Nguyen, undergrad @ Brandeis'26;I love learning new things to solve problems, and hope to contribute towards the positive betterment of society to help those in need!)](https://git.io/typing-svg)
 
 - 🌱 I’m currently interested in -> **ML, Pytorch, DataStructures + Algorithms && Backend Development**
 
