@@ -1,8 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=00ABF7&center=true&vCenter=true&multiline=true&width=500&height=300&lines=+++++++++++++++++++++%3C+%F0%9F%92%BB+%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=00ABF7&center=true&vCenter=true&multiline=true&width=2605&height=10&lines=+++++++++++++++++++++%3C+%F0%9F%92%BB+%3E" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=730&color=00ABF7&center=true&vCenter=true&multiline=true&width=2605&height=1000&lines=Hey+there+%F0%9F%91%90;Here's+a+cup+of+tea+%F0%9F%8D%B5;My+name+is+Long+Nguyen%2C+an+undergrad+%40+Brandeis26+%F0%9F%8E%92;I+love+learning+and+applying+it+to+solve+problems+and+create+%F0%9F%94%A9;Ultimately%2C+I+hope+to+contribute+towards+a+meaningful+positive+betterment+of+society+%F0%9F%8C%B3;I%E2%80%99m+currently+interested+in+ML%2C+Pytorch%2C+DataStructures+%2B+Algorithms+%26%26+Backend+Development+%F0%9F%93%9A;But+that's+it+from+me.+Don't+hesitate+to+reach+out+%F0%9F%98%B0;I+hope+you+enjoy+your+stay+%F0%9F%92%9B+" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=00ABF7&center=true&vCenter=true&multiline=true&width=500&height=300&lines=+++++++++++++++++++++%3C+%F0%9F%92%BB+%3E" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=00ABF7&center=true&vCenter=true&multiline=true&width=2605&height=10&lines=+++++++++++++++++++++%3C+%F0%9F%92%BB+%3E" alt="Typing SVG" /></a>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
