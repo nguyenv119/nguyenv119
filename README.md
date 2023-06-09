@@ -32,7 +32,7 @@
 ### <h3 style="display: inline;">📊 Stats </h3><h4 style="display: inline; font-size: smaller;"><i>~ Growing ~</i></h4>
 
 ![Long's Growing GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenv119&show_icons=true&theme=gruvbox)
-<img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/LimpingDarlingFinnishspitz-max-1mb.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/LimpingDarlingFinnishspitz-max-1mb.gif"> -->
 
 <details>
  <summary><h3> 👨‍💻 Long's Coding Journey</h3></summary>
