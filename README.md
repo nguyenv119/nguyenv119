@@ -36,4 +36,15 @@
 
 <details>
  <summary><h3> 👨‍💻 Long's Coding Journey</h3></summary>
-   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+   Once upon a time, in the hot summer 2022, inside a cold, cold lab.
+   Drip... 
+      Drip... 
+        Drip...
+   Dripping alongside the solution I concocted was the patience I had for biochemistry. No more! I abandoned what I thought would be my lifelong pursuit. Planless, and with just a month left before college move-in, I quickly grabbed a hot, trendy major without much care. Filled with what I thought was hours of screen-staring and colored text, I began this journey in Computer Science slightly dreaded.
+ 
+So I coded, and coded, picking up basic algorithms and how to think programatically that month before school. On a whim, I passed the placement test and skipped some prerequisites, throwing myself into the deep end. Here, I saw two sides of the CS coin; for one, there were a few exceptional bright students speeding ahead and making it all look so effortless. The other vast majority, on the other hand, struggled — and they struggled hard. Many stopped trying, and  quit; whether by doing so metaphorically, coming to class not learn but simply stare at the projector, crying, or <i>actually</i> do so by dropping out.
+ 
+Admittedly, I'm not insanely smart, quick-witted and intuitive. Learning the algorithms, data structures, and information related to computer science — it isn't easy, especially if we let ourselves be consumed by it.
+ 
+ 
+ But, through my unrelenting determination to adapt to and conquer whatever problem seperates myself with success, I have  student with a passion to learn everything I could about this programming world 
