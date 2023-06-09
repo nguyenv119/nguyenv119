@@ -4,9 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=FFFFFF&center=false&vCenter=false&multiline=true&width=2605&height=100&lines=+++++++++++++++++++++%3C/%F0%9F%92%BB%3E" alt="Typing SVG" /></a>
 
-<p align="left" style="color: #07F700FF;">
-</p>
-
 ### 🧰 Technologies
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -36,12 +33,8 @@
 
 <details>
  <summary><h3> 👨‍💻 Who am I?</h3></summary>
-   Once upon a time, in the hot summer 2022, inside a cold, cold lab.
-   Drip... 
-      Drip... 
-        Drip...
-   Dripping alongside the solution I concocted was the patience I had for biochemistry. No more! I abandoned what I thought would be my lifelong pursuit. Planless, and with just a month left before college move-in, I quickly grabbed a hot, trendy major without much care. Filled with what I thought was hours of screen-staring and colored text, I began this journey in Computer Science slightly dreaded.
-<br>
+ 
+Once upon a time, in the hot summer 2022, inside a cold, cold lab. Drip...  Drip...  Drip... Dripping alongside the solution I concocted was the patience I had for biochemistry. No more! I abandoned what I thought would be my lifelong pursuit. Planless, and with just a month left before college move-in, I quickly grabbed a hot, trendy major without much care. Filled with what I thought was hours of screen-staring and colored text, I began this journey in Computer Science slightly dreaded.
  
 So I coded, and coded, picking up basic algorithms and how to think programatically that month before school. On a whim, I passed the placement test and skipped some prerequisites, throwing myself into the deep end. Here, I saw two sides of the CS coin; for one, there were a few exceptional bright students speeding ahead and making it all look so effortless. The other vast majority, on the other hand, struggled — and they struggled hard. Many stopped trying, and  quit; whether by doing so metaphorically, coming to class not learn but simply stare at the projector, crying, or <i>actually</i> do so by dropping out.
  
