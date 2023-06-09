@@ -4,13 +4,16 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=00ABF7&center=false&vCenter=false&multiline=true&width=2605&height=100&lines=+++++++++++++++++++++%3C+%F0%9F%92%BB+%3E" alt="Typing SVG" /></a>
 
-<h3 font-family="Segoe UI,Tahoma,Geneva,Verdana,sans-serif" align="center">Technologies</h3>
-
-<div align="center">
-  <table>
+<div style = "background-color: #03001AFF" align="center">
+  <table style="border-collapse: collapse; border: 1px solid red;">
     <tr>
-      <td align="center">
-        <h3 align="left">Programming</h3>
+      <tr>
+        <td align="center" colspan="3" style="border-top: 1px solid white; border-bottom: 1px solid white;">
+          <h3 align="center">Technologies</h3>
+        </td>
+      </tr>
+      <td align="center" style="border-right: 1px solid white;">
+        <h3 align="left" style="color: white;">Programming</h3>
         <p>
           <a href="https://www.python.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
@@ -23,9 +26,8 @@
           </a>
         </p>
       </td>
-      <td class="vertical-line"></td>
-      <td align="center">
-        <h3 align="left">Full Stack</h3>
+      <td align="center" style="border-right: 1px solid white;">
+        <h3 align="left" style="color: white;">Full Stack</h3>
         <p>
           <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="25" height="25"/>
@@ -48,23 +50,10 @@
           <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="25" height="25"/>
           </a>
-          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
-          </a>
-          <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="25" height="25"/>
-          </a>
-          <a href="https://svelte.dev" target="_blank" rel="noreferrer">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="25" height="25"/>
-          </a>
-          <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="25" height="25"/>
-          </a>
         </p>
       </td>
-      <td class="vertical-line"></td>
       <td align="center">
-        <h3 align="left">ML</h3>
+        <h3 align="left" style="color: white;">ML</h3>
         <p>
           <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="25" height="25"/>
