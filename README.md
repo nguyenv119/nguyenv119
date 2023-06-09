@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=00ABF7&center=false&vCenter=false&multiline=true&width=2605&height=100&lines=+++++++++++++++++++++%3C+%F0%9F%92%BB+%3E" alt="Typing SVG" /></a>
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/long-nguyen-8b77b7248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="long-nguyen-8b77b7248" height="30" width="40" /></a>
 <a href="https://instagram.com/_vinh.long_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vinh.long_" height="30" width="40" /></a>
