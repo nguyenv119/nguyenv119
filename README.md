@@ -35,16 +35,16 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/LimpingDarlingFinnishspitz-max-1mb.gif"> -->
 
 <details>
- <summary><h3> 👨‍💻 Long's Coding Journey</h3></summary>
+ <summary><h3> 👨‍💻 Who am I?</h3></summary>
    Once upon a time, in the hot summer 2022, inside a cold, cold lab.
    Drip... 
       Drip... 
         Drip...
    Dripping alongside the solution I concocted was the patience I had for biochemistry. No more! I abandoned what I thought would be my lifelong pursuit. Planless, and with just a month left before college move-in, I quickly grabbed a hot, trendy major without much care. Filled with what I thought was hours of screen-staring and colored text, I began this journey in Computer Science slightly dreaded.
+<br>
  
 So I coded, and coded, picking up basic algorithms and how to think programatically that month before school. On a whim, I passed the placement test and skipped some prerequisites, throwing myself into the deep end. Here, I saw two sides of the CS coin; for one, there were a few exceptional bright students speeding ahead and making it all look so effortless. The other vast majority, on the other hand, struggled — and they struggled hard. Many stopped trying, and  quit; whether by doing so metaphorically, coming to class not learn but simply stare at the projector, crying, or <i>actually</i> do so by dropping out.
  
-Admittedly, I'm not insanely smart, quick-witted and intuitive. Learning the algorithms, data structures, and information related to computer science — it isn't easy, especially if we let ourselves be consumed by it.
+I know at some point in our life, you and I can relate to these students. Broken, school, finances, whatever it is, it has tried to bring us down to our knees, and force us to <i>stay</i> down. But, we musn't. Learning the algorithms, data structures, and all the complexities of computer science, or whatever we do — it isn't easy. So then is there no point? No, that is <i>exactly</i> the point. It <i>isn't</i> easy.
  
- 
- But, through my unrelenting determination to adapt to and conquer whatever problem seperates myself with success, I have  student with a passion to learn everything I could about this programming world 
+Who am I? I'm not naturally smart, quick-witted and intuitive. But, who or what I am is someone relentless in his determination to adapt to and conquer whatever problem seperates himself with success. I want to prove, and inspire to people that, yes, talent and intelligence can take you far, but hard work will bring you anywhere.
