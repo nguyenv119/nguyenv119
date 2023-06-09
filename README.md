@@ -1,6 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=550&color=00F733&center=true&vCenter=true&multiline=true&width=435&lines=%3Cintro%3E+;Hey+there+%F0%9F%91%90;Here's+a+cup+of+tea%2C+%F0%9F%8D%B5;+My+name+is+Long+Nguyen%2C+an+undergrad+%40+Brandeis+'+26+%F0%9F%8E%92;I+love+learning+new+things+and+using+them+to+solve+problems+%F0%9F%A4%98I;+hope+to+contribute+towards+the+positive+betterment+of+society+to+help+those+in+need++%F0%9F%8C%8F;I%E2%80%99m+currently+interested+in+ML%2C+Pytorch%2C+DataStructures+%2B+Algorithms+%26%26+Backend+Development+%F0%9F%8C%B1+;But%2C+that's+it+from+me.+I+hope+you+enjoy+your+stay+%F0%9F%98%87;%3C%2Fintro%3E" alt="Typing SVG" style="max-width: 100%;"/></a>
 
-<img src="https://camo.githubusercontent.com/5967b018b506a72df1bf8218adf8d090346f09c71d05f321d4cb56ea77087e1e/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5365676f652b5549267765696768743d323030266475726174696f6e3d323530302670617573653d30266261636b67726f756e643d46464646464630302663656e7465723d74727565267643656e7465723d74727565266d756c74696c696e653d74727565267265706561743d747275652677696474683d393733266865696768743d313833266c696e65733d48692b7468657265212b49276d2b4172636865722532432b616e642b49276d2b612b70726f626c656d2b736f6c7665722b776974682b612b70617373696f6e2b666f722b6469676974616c2b3b696e6e6f766174696f6e2e2b492b7468726976652b6f6e2b7468652b6368616c6c656e67652b6f662b6f766572636f6d696e672b6c696d69746174696f6e732b696e2b6d792b3b656e7669726f6e6d656e742532432b616e642b492b6465726976652b67726561742b736174697366616374696f6e2b66726f6d2b7472616e73666f726d696e672b7468656d2b696e746f3b2b736f75726365732b6f662b696e737069726174696f6e2b616e642b6964656174696f6e2e2b546869732b70617373696f6e2b6472697665732b6d652b746f2b7365656b2b6f75742b6e65773b2b6f70706f7274756e69746965732b746f2b696e6e6f766174652b616e642b6372656174652b6d65616e696e6766756c2b736f6c7574696f6e732b746861742b6d616b652b613b2b646966666572656e63652b696e2b7468652b776f726c642e" alt="Typing SVG" data-canonical-src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI&amp;weight=200&amp;duration=2500&amp;pause=0&amp;background=FFFFFF00&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=973&amp;height=183&amp;lines=Hi+there!+I'm+Archer%2C+and+I'm+a+problem+solver+with+a+passion+for+digital+;innovation.+I+thrive+on+the+challenge+of+overcoming+limitations+in+my+;environment%2C+and+I+derive+great+satisfaction+from+transforming+them+into;+sources+of+inspiration+and+ideation.+This+passion+drives+me+to+seek+out+new;+opportunities+to+innovate+and+create+meaningful+solutions+that+make+a;+difference+in+the+world." style="max-width: 100%;">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=550&color=00F733&center=true&vCenter=true&multiline=true&width=435&lines=%3Cintro%3E+;Hey+there+%F0%9F%91%90;Here's+a+cup+of+tea%2C+%F0%9F%8D%B5;+My+name+is+Long+Nguyen%2C+an+undergrad+%40+Brandeis+'+26+%F0%9F%8E%92;I+love+learning+new+things+and+using+them+to+solve+problems+%F0%9F%A4%98I;+hope+to+contribute+towards+the+positive+betterment+of+society+to+help+those+in+need++%F0%9F%8C%8F;I%E2%80%99m+currently+interested+in+ML%2C+Pytorch%2C+DataStructures+%2B+Algorithms+%26%26+Backend+Development+%F0%9F%8C%B1+;But%2C+that's+it+from+me.+I+hope+you+enjoy+your+stay+%F0%9F%98%87;%3C%2Fintro%3E" alt="Typing SVG" style="max-width: 100%;"/>
+</a>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -10,3 +11,59 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+# <Project Name>
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+[Project Description]
+
+## Table of Contents
+
+- [Features](#features)
+- [Demo](#demo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+
+- [Feature 1]
+- [Feature 2]
+- [Feature 3]
+- ...
+
+## Demo
+
+[Add screenshots, GIFs, or a link to a live demo here]
+
+## Installation
+
+[Provide installation instructions here]
+
+## Usage
+
+[Provide instructions on how to use your project here]
+
+## Contributing
+
+[Explain how others can contribute to your project]
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Create a pull request
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+[Your Name]
+- [GitHub](https://github.com/[Your GitHub Username])
+- [Email](mailto:your@email.com)
+- [Website](https://example.com)
+
