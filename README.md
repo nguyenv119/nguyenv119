@@ -29,8 +29,8 @@
 #
 ### <h3 style="display: inline;">📊 Stats </h3><h4 style="display: inline; font-size: smaller;"><i>~ Growing ~</i></h4>
 
-[comment]: <![Long's Growing GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenv119&show_icons=true&theme=monokai)> ()
-[![Long's Growing GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenv119&theme=dark)](https://github.com/nguyenv119/github-readme-stats)
+![Long's Growing GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenv119&show_icons=true&theme=monokai)
+
 
 <details>
  <summary><h3> 👨‍💻 Who am I?</h3></summary>
