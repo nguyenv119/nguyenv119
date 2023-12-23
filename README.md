@@ -33,7 +33,7 @@
 
 
 <details>
- <summary><h3> 👨‍💻 Who am I?</h3></summary>
+ <summary><h3> 👨‍💻 Who am I? (Corny) </h3></summary>
  
 Once upon a summer in 2022, I found myself wrestling with biochemistry inside a freezing lab. Patience wore thin alongside the dripping solutions, and I bailed on this path of biochemistry. With only a month before move-in day, I grabbed a trendy major without much thought. Was it a calculated move? Nope, life's not that neat.
 
