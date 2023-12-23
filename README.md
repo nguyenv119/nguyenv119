@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=79&duration=1&pause=730&color=FFFFFF&center=false&vCenter=false&multiline=true&width=2605&height=100&lines=+++++++++++++++++++++%3C/%F0%9F%92%BB%3E" alt="Typing SVG" /></a>
 
-### 🧰 My Tech Stack
+### 🧰 My LinkedList of Techs
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
