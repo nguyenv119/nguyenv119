@@ -29,9 +29,9 @@
 <br />
 
 #
-### <h3 style="display: inline;">📊 Stats </h3><h4 style="display: inline; font-size: smaller;"><i>~ Growing ~</i></h4>
+### <h3 style="display: inline;">📊 Some GitHub Stats I Guess? </h3><h4 style="display: inline; font-size: smaller;"></h4>
 
-![Long's Growing GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyenv119&show_icons=true&theme=monokai)
+![Long Nguyen](https://github-readme-stats.vercel.app/api?username=nguyenv119&show_icons=true&theme=monokai)
 
 
 <details>
