@@ -36,13 +36,16 @@
 <img align="left" alt="Tensorflow" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <br />
 
-#
+
 ### <h3 style="display: inline;">📊 Some GitHub Stats I Guess? </h3><h4 style="display: inline; font-size: smaller;"></h4>
 
 ![Long Nguyen](https://github-readme-stats.vercel.app/api?username=nguyenv119&show_icons=true&theme=tokyonight)
 
 
- <summary><h3> 👨‍💻 Who am I? (Corny) </h3></summary>
+ <summary><h3> 👨‍💻 Who am I? (Corny) </h3></summary> 
+ <i> This is non-AI-generated, in contrast to popular belief. </i>
+   
+<ignore></ignore>
 <details>
  
 Once upon a summer in 2022, I found myself wrestling with biochemistry inside a freezing lab. Patience wore thin alongside the dripping solutions, and I bailed on this path of biochemistry. With only a month before move-in day, I grabbed a trendy major without much thought. Was it a calculated move? Nope, life's not that neat.
@@ -58,3 +61,4 @@ Life's trials test us, be it CS, relationships, finances, or otherwise. Doubts c
 That's the beauty. Struggle's where we grow. Each algorithm conquered reveals hidden parts of us. We learn we're tougher and more capable than we believed.
 
 This is the same spirit that drives me, the same reason I’m here, standing in the crossroads of challenge and change. I am not naturally smart and intuitive. But I am relentless, constantly pushing against my limits to humbly learn, improve, and conquer whatever problem separates me from my dream — to prove that talent may take you far, but hardwork will bring you anywhere.
+</details>
