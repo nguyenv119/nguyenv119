@@ -37,12 +37,9 @@
 <br />
 
 
-### <h3 style="display: inline;">📊 Some GitHub Stats I Guess? </h3><h4 style="display: inline; font-size: smaller;"></h4>
-
-![Long Nguyen](https://github-readme-stats.vercel.app/api?username=nguyenv119&show_icons=true&theme=tokyonight)
 
 
- <summary><h3> 👨‍💻 Who am I? (Corny) </h3></summary> 
+<h3> 👨‍💻 Who am I? (Corny) </h3>
  <i> This is non-AI-generated, in contrast to popular belief. </i>
    
 <ignore></ignore>
