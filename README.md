@@ -17,8 +17,8 @@ My philosophy is simple: do the best with the time given to you. We have only th
 this moment to move closer to our goals. Talent may get you far, but, in my opinion, it’s confidence
 and persistence that can take you anywhere.
 
-Life is never “easy.” But in accepting that reality, we give ourselves
-permission to lean into the struggle, to find joy not in comfort, but in progress.
+Life is so fucking hard...But, in accepting this reality, we give ourselves
+permission to lean into and learn in coming out of the struggle, to find joy not in comfort, but in progress.
 
 ```
 
