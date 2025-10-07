@@ -9,7 +9,6 @@
  <i> This is non-AI-generated, in contrast to popular belief. </i>
    
 <ignore></ignore>
-<details>
     
 ```
 
