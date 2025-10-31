@@ -5,20 +5,10 @@
 <br>
 
 
-<h3> 👨‍💻 My philosophy? (Corny) </h3>
- <i> This is non-AI-generated, in contrast to popular belief. </i>
-   
+<h3> 👨‍💻 Life Update? </h3>   
 <ignore></ignore>
     
 ```
-
-My philosophy is simple: do the best with the time given to you. We have only this day, this hour,
-this moment to move closer to our goals. Talent may get you far, but, in my opinion, it’s confidence
-and persistence that can take you anywhere.
-
-Life is so fucking hard...But, in accepting this reality, we give ourselves
-permission to lean into and learn in coming out of the struggle, to find joy not in comfort, but in progress.
-
+shout out mel robbins for this: https://www.youtube.com/watch?v=P91b4civBxA
 ```
-
 </details>
