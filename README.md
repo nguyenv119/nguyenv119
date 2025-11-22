@@ -4,12 +4,12 @@
 
 <br>
 
+I've worked at 9 startups, need more, absorb knowledge 🤓
 
 <h3> 👨‍💻 Life Update? </h3>   
 <ignore></ignore>
     
 ```
 shout out mel robbins for this: https://www.youtube.com/watch?v=P91b4civBxA
-me likey startup 🫠
 ```
 </details>
