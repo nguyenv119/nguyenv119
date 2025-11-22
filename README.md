@@ -10,5 +10,6 @@
     
 ```
 shout out mel robbins for this: https://www.youtube.com/watch?v=P91b4civBxA
+me likey startup 🫠
 ```
 </details>
